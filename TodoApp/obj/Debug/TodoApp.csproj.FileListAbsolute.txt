@@ -1,0 +1,7 @@
+C:\dev\C_SHARP-school\ToDoApp\TodoApp\bin\Debug\TodoApp.exe.config
+C:\dev\C_SHARP-school\ToDoApp\TodoApp\bin\Debug\TodoApp.exe
+C:\dev\C_SHARP-school\ToDoApp\TodoApp\bin\Debug\TodoApp.pdb
+C:\dev\C_SHARP-school\ToDoApp\TodoApp\obj\Debug\TodoApp.csproj.AssemblyReference.cache
+C:\dev\C_SHARP-school\ToDoApp\TodoApp\obj\Debug\TodoApp.csproj.CoreCompileInputs.cache
+C:\dev\C_SHARP-school\ToDoApp\TodoApp\obj\Debug\TodoApp.exe
+C:\dev\C_SHARP-school\ToDoApp\TodoApp\obj\Debug\TodoApp.pdb
